@@ -89,8 +89,7 @@
   font-family: Lato, sans-serif;
   color: #888;
 }
-.new-task__input-text:focus,
-.task-list__input-text:focus {
+.input-text:focus {
   color: #333;
 }
 
@@ -101,10 +100,6 @@
 }
 .new-task__input {
   width: 318px;
-}
-
-.new-task__button:hover {
-  color: #0fc57c;
 }
 
 /* Task list */
@@ -135,9 +130,6 @@
 }
 .task-list__input-text  {
   width: 226px;
-}
-.delete:hover {
-  color: #cf2323;
 }
 .delete-image {
   height: 2em;
