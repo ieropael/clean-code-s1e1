@@ -122,11 +122,10 @@
 
 /* Task list */
 
-.task-list__item{
+.task-list__item {
   overflow: hidden;
   padding: 20px 0;
   border-bottom: 1px solid #eee;
-
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -150,7 +149,7 @@
   width: 226px;
 }
 
-.task-list__input-text  {
+.task-list__input-text {
   width: 226px;
 }
 
